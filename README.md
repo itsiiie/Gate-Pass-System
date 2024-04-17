@@ -1,7 +1,5 @@
 # 🚪 Gate Pass System
 
-![Project Banner](https://via.placeholder.com/800x200)
-
 Welcome to the **Gate Pass System**! This is a cutting-edge application that provides real-time face recognition capabilities to enhance security and access control at UEMJ (University of Engineering and Management, Jaipur). Built with Streamlit and OpenCV, this application allows you to monitor the number of people entering and leaving the premises with ease.
 
 ## 🌟 Features
